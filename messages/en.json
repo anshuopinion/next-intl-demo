@@ -1,0 +1,11 @@
+{
+  "Home": {
+    "title": "This is my channel",
+    "welcome": "Welcome to my channel. Here you will find all the latest videos and content.",
+    "subscribe": "Subscribe me"
+  },
+  "lang": {
+    "english": "English",
+    "hindi": "Hindi"
+  }
+}
